@@ -1,0 +1,32 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement (the "Agreement") is entered into as of {{.Date}}, by and between:
+
+{{.CompanyName}}, a {{.State}} corporation, with its principal place of business at {{.Address}} (hereinafter referred to as the "Disclosing Party"),
+
+and
+
+{{.RecipientName}}, with a principal address at {{.RecipientAddress}} (hereinafter referred to as the "Receiving Party").
+
+1. Purpose. The Disclosing Party desires to disclose certain confidential information (the "Confidential Information") to the Receiving Party for {{.PurposeOfDisclosure}}.
+
+2. Confidential Information. The term "Confidential Information" shall mean any non-public information, including but not limited to, trade secrets, financial information, business plans, and any other information deemed confidential by the Disclosing Party.
+
+3. Obligations. The Receiving Party agrees to hold the Confidential Information in strict confidence and to take all reasonable precautions to prevent unauthorized disclosure or use of the Confidential Information.
+
+4. Use and Disclosure Restrictions. The Receiving Party shall not use the Confidential Information for any purpose other than the purpose for which it was disclosed, and shall not disclose or permit disclosure of the Confidential Information to any third party without the prior written consent of the Disclosing Party.
+
+5. Exclusions. The obligations set forth in this Agreement shall not apply to information that is independently developed by the Receiving Party, lawfully obtained from a third party without restrictions, or publicly available.
+
+6. Duration. The obligations of coynfidentiality shall remain in effect for {{.Duration}} from the date of disclosure of the Confidential Information.
+
+7. Return or Destruction. Upon the Disclosing Party's request, or upon termination of discussions or business dealings between the parties, the Receiving Party shall promptly return or, at the Disclosing Party's option, destroy all copies of the Confidential Information in its possession.
+
+8. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of {{.State}}.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Non-Disclosure Agreement as of the effective date first above written.
+
+{{.CompanyName}}                   {{.RecipientName}}
+By: ________________________       ________________________
+{{.YourName}}                      [Recipient's Signature]
+Date: _________________            Date: _________________

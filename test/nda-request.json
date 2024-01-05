@@ -1,0 +1,13 @@
+{
+    "template": "nda",
+    "variables": {
+      "Name": "Mike Donahoe",
+      "Date": "1-5-2023",
+      "CompanyName": "Mike's Super Awesome Tech Stup",
+      "State": "Missouri",
+      "Address": "123 Park Street",
+      "RecipientName": "Vincent Taoromina",
+      "PurposeOfDisclosue": "because its super secret",
+      "Duration": "10 year"
+    }
+}
